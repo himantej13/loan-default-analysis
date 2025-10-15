@@ -1,6 +1,22 @@
 # loan-default-analysis
 data analysis project of loan repayment status to understand default patterns
 
-This project involves exploratory data analysis of loan repayment status to uncover patterns and insights related to loan defaults. Using customer demographic and financial data, the analysis explores how factors like age groups and income levels impact loan repayment behavior.
+This project explores loan repayment data to understand patterns and factors influencing loan defaults using data analysis in Jupyter notebooks.
 
-The goal is to provide a clear understanding of trends and relationships in the data through visualization and summary statistics, which can help inform lending decisions.
+## Data
+
+- Raw loan data: `raw_data/loan_data.csv`
+- Cleaned data: `clean_data/clean_loan_data.csv`
+
+## Usage
+
+Open and run the Jupyter notebook `loan_default_analysis.ipynb` to see the full analysis.
+
+## Dependencies
+
+- Python 3.x  
+- pandas  
+- matplotlib  
+- seaborn  
+- jupyter notebook
+
